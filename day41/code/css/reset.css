@@ -1,0 +1,9 @@
+html,body{font: 12px "微软雅黑";}
+body,li,ul,ol,h1,h2,h3,h4,h5,h6,input,img,form,a,html,p,dd,dl,dt{margin:0;padding:0;}
+li{list-style:none;}
+i,em{font-style:normal;}
+input,button{outline: 0;}
+strong,b{font-weight: 100;}
+a{text-decoration:none; font-size:12px; color: #000000;}
+h1,h2,h3,h4,h5,h6,b,strong,{font-size:12px; font-weight:100; font-family:"微软雅黑"}
+.clear:after{content:".";clear:both;display:block;height:0;overflow:hidden;visibility:hidden;}
